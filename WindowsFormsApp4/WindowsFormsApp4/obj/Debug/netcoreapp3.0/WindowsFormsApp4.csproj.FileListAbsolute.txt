@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\netcoreapp3.0\WindowsFormsApp4.exe
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\netcoreapp3.0\WindowsFormsApp4.deps.json
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\netcoreapp3.0\WindowsFormsApp4.runtimeconfig.json
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\netcoreapp3.0\WindowsFormsApp4.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\netcoreapp3.0\WindowsFormsApp4.dll
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\netcoreapp3.0\WindowsFormsApp4.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\netcoreapp3.0\WindowsFormsApp4.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\netcoreapp3.0\WindowsFormsApp4.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\netcoreapp3.0\WindowsFormsApp4.dll
+C:\Users\Admin\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\netcoreapp3.0\WindowsFormsApp4.pdb
