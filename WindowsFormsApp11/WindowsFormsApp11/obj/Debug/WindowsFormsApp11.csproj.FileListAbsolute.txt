@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
